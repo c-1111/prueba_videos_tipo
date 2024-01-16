@@ -1,7 +1,7 @@
 <template>
     <div class="video-wrapper">
   <video autoplay muted loop playsinline preload="metadata">
-	  <source src="/vid/cartel_a2_disual_1.mp4" type="video/mp4">
+	  <source src="/vid/CARTEL_FINAL_CENTRADO_CARLOS_1.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -25,7 +25,7 @@ body {
   overflow: hidden;
   
   video {
-    object-fit: cover;
+    margin-top: -5rem;
     width:100%;
     height:100%;
   }
